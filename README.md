@@ -124,7 +124,7 @@ DevOps is not about tools.
 It is about **ownership, reliability, and consistency**.
 
 One day at a time.  
-One commit at a time.
+One commit at a time
 
 Happy Learning  
 **TrainWithShubham**
